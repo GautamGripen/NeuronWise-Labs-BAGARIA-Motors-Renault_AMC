@@ -2,7 +2,6 @@ import os
 import html
 from datetime import datetime
 import xml.etree.ElementTree as ET
-
 import pandas as pd
 import requests
 
